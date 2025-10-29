@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "remoto";
 $pass = "sena2025";
-$db = "crud_db";
+$db = "crud_db2";
 
 $conn = new mysqli($host, $user, $pass, $db);
 
